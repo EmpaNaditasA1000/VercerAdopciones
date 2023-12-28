@@ -14,14 +14,14 @@
                 "jugueton": true
             },
             "extra": {
-                "titulo": "titulo 1",
-                "descripcion": "desc 1"
+                "titulo": "El compañero perfecto",
+                "descripcion": "Chester es un perro leal y amigable, siempre listo para jugar a la pelota o para un abrazo."
             },
             "url": "https://res.cloudinary.com/dtmapxnao/image/upload/v1703218298/Card_zgeyms.png"
         },
         {
             "id": 3,
-            "Nombre": "Chester",
+            "Nombre": "Pepito",
             "edad": "edad 2",
             "raza": "Chihuahua",
             "direccion": "direccion 2",
